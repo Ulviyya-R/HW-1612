@@ -1,0 +1,61 @@
+body {
+
+    background-color: #C7DFF6;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.box {
+    background-image: url("fe5f677b1627009c4b3e1c1c31dedf71.png");
+    border: 20px solid #C7DFF6;
+    margin: 100 px;
+    padding: 20px 200px;
+}
+
+#img {
+    width: 200px;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+}
+
+span {
+    float: right;
+    background-color: black;
+    color: white;
+}
+
+.break {
+    width: 100px;
+    text-align: right;
+}
+
+.top {
+    float: right;
+    padding: 50px 20px;
+    line-height: 5px;
+}
+
+#top2 {
+    margin-left: 35px;
+}
+
+
+.compress {
+    line-height: 5px;
+}
+
+.compress2 {
+    line-height: 0px;
+}
+
+.compress3 {
+    margin: -6px
+}
+
+small {
+    font-size: 13px;
+    padding: 1px;
+}
